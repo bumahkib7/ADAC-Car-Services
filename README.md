@@ -1,4 +1,4 @@
-# ADAC-Car-Services
+# GUAC-General-Ugandan-AutoMobile-Club
 # Getting Started
 
 ### Reference Documentation
